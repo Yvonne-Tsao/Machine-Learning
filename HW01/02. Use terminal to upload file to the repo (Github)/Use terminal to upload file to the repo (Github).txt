@@ -5,7 +5,7 @@ cd Desktop #get into the file name 'Desktop'
 cd.. Desktop #get off the file name 'Desktop'
 
 2.Clone your repo.
-get clone https://github.com/Yvonne-Tsao/Machine-Learning.git 
+get clone git@github.com:Yvonne-Tsao/Machine-Learning.git
 #the website address should be copied from the repo I built on Github
 #there will then show up a new file name 'Machine-Learning'
 #'Machine-Learning' is the name of my repo I built on Github
@@ -22,7 +22,7 @@ git add .
 git status #for confirming, green word means successfully upload/modify the file
 
 6.Add the record of uploading.
-git commit -m "first upload" #"first upload", "second upload", "third upload", ...
+git commit -m "first commit" #"first commit", "second commit", "third commit", ...
 
 7.Upload the file to remote repository from local repository.
 git push
