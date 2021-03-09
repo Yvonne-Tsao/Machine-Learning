@@ -1,0 +1,16 @@
+
+1.Download and compiler python.
+https://www.python.org/downloads/mac-osx/
+
+2.Install virtualenv via pip.
+pip install virtualenv
+virtualenv venv --system-site-packages #'venv' is the name of the virtual environment I built
+
+3.Activate virtualenv.
+source venv/bin/activate #to activate the virtual environment I built
+
+4.Install package in virtualenv.
+pip install jupyterlab matplotlib pandas scikit-learn spyder
+
+5.To leave the virtual environment.
+deactivate

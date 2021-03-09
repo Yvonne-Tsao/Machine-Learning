@@ -1,0 +1,28 @@
+
+1.To confirm the position and make sure the position you want to built the repo.
+ls #terminal will show all the files at the current position
+cd Desktop #get into the file name 'Desktop'
+cd.. Desktop #get off the file name 'Desktop'
+
+2.Clone your repo.
+get clone https://github.com/Yvonne-Tsao/Machine-Learning.git 
+#the website address should be copied from the repo I built on Github
+#there will then show up a new file name 'Machine-Learning'
+#'Machine-Learning' is the name of my repo I built on Github
+#There is a 'README.md' inside the file and it's allowed to edit the content
+
+3.Drag the file that I want to upload to the repo into 'Machine-Learning'.
+
+4.Get into 'Machine-Learning'
+cd Machine-Learning 
+
+5.Verify the file I drag in / move off and confirm the instruction.
+git status
+git add .
+git status #for confirming, green word means successfully upload/modify the file
+
+6.Add the record of uploading.
+git commit -m "first upload" #"first upload", "second upload", "third upload", ...
+
+7.Upload the file to remote repository from local repository.
+git push
