@@ -16,3 +16,9 @@ HW02
 AI FOR SCIENCE 2000字心得。
 
 HW03
+
+Calculate MSE (Mean Square Error), MAE (Mean Absolute Error), cross-entropy for two models.
+
+HW04
+
+Calculate Q for figures.
