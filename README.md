@@ -22,3 +22,11 @@ Calculate MSE (Mean Square Error), MAE (Mean Absolute Error), cross-entropy for 
 HW04
 
 Calculate Q for figures.
+
+HW05
+
+Segment the image into isolated islands and count their size.
+
+HW06
+
+Try to do clustering for the given data set.
